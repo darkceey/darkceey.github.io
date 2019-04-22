@@ -2,7 +2,7 @@
 layout:     post
 title:      react 组件之间的通信
 subtitle:   父组件调用子组件的方法
-date:       2018年4月21日23:18:14
+date:       2018-4-21
 author:     darkceey
 header-img: img/about_desk.jpg
 catalog: true
