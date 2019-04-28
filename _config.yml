@@ -12,7 +12,7 @@ github_repo: "https://github.com/darkceey/darkceey.github.io.git" # you code rep
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "浮生如梦"
-sidebar-avatar: /img/avatar_b.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar_c.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -113,4 +113,4 @@ service-worker: true
 #    }
 #]
 
-theme: jekyll-theme-slate
+#theme: jekyll-theme-slate
